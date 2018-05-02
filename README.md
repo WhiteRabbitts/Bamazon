@@ -9,7 +9,7 @@ First, we would need to create the database using MySQL.
 
 
 Once we built the database, we needed to run it.
-![Database2](/Users/timswengros/Desktop/Bamazon/Screen Shot 2018-05-02 at 6.17.22 PM.png)
+![Database2](http://www.coastergallery.com/UK/Oblivion.jpg)
 
 
 
